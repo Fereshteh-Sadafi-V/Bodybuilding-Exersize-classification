@@ -14,7 +14,7 @@ All data (about 630 original images) are collected from internet, and then data 
 I used transfer learning and worked with yolo11n-cls model from https://docs.ultralytics.com
 
 ## 4. Evaluation
-* I calculate the metrics: precision, recall, f1_score, overall accuracy, macro-averaged precision, recall, f1-score and weighted-averaged precision, recall, f1-score for both validation dataset and test dataset in related sections.
+* I calculated the metrics: precision, recall, f1_score, overall accuracy, macro-averaged precision, recall, f1-score and weighted-averaged precision, recall, f1-score for both validation dataset and test dataset in related sections.
 * Also confusion matrix(original, normalized) for both datasets are available at: `BEC project/validation-yolo11ncls` and `BEC project/test-yolo11ncls`
 
 
