@@ -2,7 +2,7 @@
 
 Welcome to BEC project!
 
-This is my final project for Artificial Intelligence course at University of Guilan, Iran.
+This is my final project for Artificial Intelligence course at University of Guilan.
 
 ## 1. Goal
 In this project, we want to train a deep learning model for classifying bodybuilding exercise images into 3 classes (chestpress, deadlift, forearm).
@@ -18,4 +18,4 @@ I used transfer learning and worked with yolo11n-cls model from https://docs.ult
 * Also confusion matrix(original, normalized) for both datasets are available at: `BEC project/validation-yolo11ncls` and `BEC project/test-yolo11ncls`
 
 
-**Note:** Please extract `logs-yolo11ncls`, `validation-yolo11ncls`, `test-yolo11ncls`, `data/train`, `data/val`, `data/test` into the same folder they already are.
+**Note:** Please extract `logs-yolo11ncls`, `validation-yolo11ncls`, `test-yolo11ncls`, `data/train`, `data/val`, `data/test` into the same folders they already are.
