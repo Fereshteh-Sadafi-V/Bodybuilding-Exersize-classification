@@ -2,7 +2,7 @@
 
 Welcome to BEC project!
 
-This is my final project for Artificial Intelligence course at University of Guilan, Iran.
+This is my final project for Artificial Intelligence course at University of Guilan.
 
 ## 1. Goal
 In this project, we want to train a deep learning model for classifying bodybuilding exercise images into 3 classes (chestpress, deadlift, forearm).
